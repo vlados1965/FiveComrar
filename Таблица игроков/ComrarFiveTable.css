@@ -1,0 +1,30 @@
+#logo{
+	width: 60px;
+}
+body{
+	background-image: url(Фон3.png);
+}
+table {
+font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+text-align: center;
+border-collapse: collapse;
+border-spacing: 5px;
+background-color: #2ebde1;
+border-radius: 20px;
+}
+th {
+font-size: 60px;
+font-weight: 300;
+padding: 12px 10px;
+border-bottom: 2px solid #ffffff;
+color: #ffffff;
+}
+tbody tr:nth-child(2) {
+border-bottom: 2px solid #ffffff;
+}
+td {
+	border: none;
+	background-image: url(thфон.png);
+padding: 10px;
+color: #ffffff;
+}
